@@ -1,0 +1,6 @@
+{
+  "name": "Odoo ERP Realtime Live Sync Dashboard",
+  "description": "نظام ERP متكامل متصل مباشرة بـ Odoo API مع تخطي الكاش للبث والاستجابة الفورية لكافة العمليات المالية والمخزنية والموظفين والمبيعات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
